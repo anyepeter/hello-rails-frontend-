@@ -11,7 +11,7 @@ function Greeting() {
 
   return (
     <h1>
-        {message.data.message && message.data.message}
+      {message.data.message && message.data.message}
     </h1>
   );
 }
